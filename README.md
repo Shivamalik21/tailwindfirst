@@ -27,3 +27,6 @@ in third i made two button and give them hover property
 all the measurement for these div all are responisve to screen.
 <br>
 for second div in main section i took a image .
+##
+# for
+design all section i used tailwind
